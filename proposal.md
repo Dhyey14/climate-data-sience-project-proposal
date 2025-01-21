@@ -1,5 +1,3 @@
-NOTE: ChatGPT and Gemini is used to paraphrase in order to share my viewpoint in a better way.
-
 Summary:
 In this project, we estimate the risk premium associated with firm-level climate change exposure among S&P 500 companies from 2005 to 2020. This exposure is measured 
 based on the attention given by market participants to climate-related risks and opportunities during earnings calls. While the unconditional risk premium derived from
